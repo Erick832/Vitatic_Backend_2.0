@@ -1,0 +1,12 @@
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\bin\Debug\net6.0\Vitatic.Entities.deps.json
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\bin\Debug\net6.0\Vitatic.Entities.dll
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\bin\Debug\net6.0\Vitatic.Entities.pdb
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\Vitatic.Entities.csproj.AssemblyReference.cache
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\Vitatic.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\Vitatic.Entities.AssemblyInfoInputs.cache
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\Vitatic.Entities.AssemblyInfo.cs
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\Vitatic.Entities.csproj.CoreCompileInputs.cache
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\Vitatic.Entities.dll
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\refint\Vitatic.Entities.dll
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\Vitatic.Entities.pdb
+C:\Users\arone\Desktop\Backen_Vitatic\Vitatic.Entities\obj\Debug\net6.0\ref\Vitatic.Entities.dll
