@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic\\Vitatic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DataAccess\\Vitatic.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DataAccess\\Vitatic.DataAccess.csproj",
+        "projectName": "Vitatic.DataAccess",
+        "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DataAccess\\Vitatic.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Jefferson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jefferson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj": {
+                "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DTO\\Vitatic.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DTO\\Vitatic.DTO.csproj",
+        "projectName": "Vitatic.DTO",
+        "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DTO\\Vitatic.DTO.csproj",
+        "packagesPath": "C:\\Users\\Jefferson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jefferson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj": {
+                "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj",
+        "projectName": "Vitatic.Entities",
+        "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj",
+        "packagesPath": "C:\\Users\\Jefferson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jefferson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic\\Vitatic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic\\Vitatic.csproj",
+        "projectName": "Vitatic",
+        "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic\\Vitatic.csproj",
+        "packagesPath": "C:\\Users\\Jefferson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jefferson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DataAccess\\Vitatic.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DataAccess\\Vitatic.DataAccess.csproj"
+              },
+              "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DTO\\Vitatic.DTO.csproj": {
+                "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.DTO\\Vitatic.DTO.csproj"
+              },
+              "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj": {
+                "projectPath": "C:\\Users\\Jefferson\\Desktop\\Vitatic_Backend_2.0-main\\Vitatic.Entities\\Vitatic.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
