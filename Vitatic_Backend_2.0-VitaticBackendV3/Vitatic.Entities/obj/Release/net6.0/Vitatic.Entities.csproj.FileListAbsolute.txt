@@ -1,0 +1,24 @@
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\bin\Release\net6.0\Vitatic.Entities.deps.json
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\bin\Release\net6.0\Vitatic.Entities.dll
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\bin\Release\net6.0\Vitatic.Entities.pdb
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.AssemblyInfo.cs
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.dll
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\refint\Vitatic.Entities.dll
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.pdb
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.Entities\obj\Release\net6.0\ref\Vitatic.Entities.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\bin\Release\net6.0\Vitatic.Entities.deps.json
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\bin\Release\net6.0\Vitatic.Entities.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\bin\Release\net6.0\Vitatic.Entities.pdb
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.AssemblyInfoInputs.cache
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.AssemblyInfo.cs
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\refint\Vitatic.Entities.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\Vitatic.Entities.pdb
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.Entities\obj\Release\net6.0\ref\Vitatic.Entities.dll
