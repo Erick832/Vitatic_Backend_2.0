@@ -1,0 +1,51 @@
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.deps.json
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.runtimeconfig.json
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.dll
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.pdb
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.Entities.dll
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.Entities.pdb
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.AssemblyInfo.cs
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.CopyComplete
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.dll
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\refint\Vitatic.DataAccess.dll
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.pdb
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.genruntimeconfig.cache
+C:\Users\Jefferson\Desktop\Vitatic_Backend_2.0-main\Vitatic.DataAccess\obj\Release\net6.0\ref\Vitatic.DataAccess.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.deps.json
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.runtimeconfig.json
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.pdb
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.Entities.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.Entities.pdb
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.AssemblyInfo.cs
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.CopyComplete
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\refint\Vitatic.DataAccess.dll
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.pdb
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.genruntimeconfig.cache
+C:\Users\Hugo\Desktop\Vitatic_Backend_2.0-VitaticBackendV2 (1)\Vitatic_Backend_2.0-VitaticBackendV2\Vitatic.DataAccess\obj\Release\net6.0\ref\Vitatic.DataAccess.dll
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.deps.json
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.runtimeconfig.json
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.dll
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.DataAccess.pdb
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.Entities.dll
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\bin\Release\net6.0\Vitatic.Entities.pdb
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.AssemblyInfo.cs
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.csproj.CopyComplete
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.dll
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\refint\Vitatic.DataAccess.dll
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.pdb
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\Vitatic.DataAccess.genruntimeconfig.cache
+C:\Users\Erick\Desktop\Vitatic_Backend\Vitatic.DataAccess\obj\Release\net6.0\ref\Vitatic.DataAccess.dll
