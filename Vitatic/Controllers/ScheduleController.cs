@@ -39,7 +39,9 @@ public class ScheduleController : ControllerBase
         Progress progress = new Progress();
         progress.ScheduleId = entity.ScheduleId;
         progress.Status = true;
-        progress.Points = request.Points;
+        if (entity.Category == "Alta") progress.Points = 100;
+        if (entity.Category == "Media") progress.Points = 75;
+        if (entity.Category == "Baja") progress.Points = 50;
         entity.Progress = progress;
         //
         _context.Entry(entitySchedule).State = EntityState.Modified;
@@ -64,6 +66,27 @@ public class ScheduleController : ControllerBase
 
         if (request.Priority != null) { Activity.Priority = request.Priority; }
         if (request.Category != null) { Activity.Category = request.Category; }
+
+        _context.Entry(Activity).State = EntityState.Modified;
+
+        await _context.SaveChangesAsync();
+        HttpContext.Response.Headers.Add("location", $"/api/activities/{Activity.Id}");
+        return Ok();
+    }
+    [HttpPatch("{id:int}")]
+    public async Task<ActionResult> PutActivityById(int id,DtoActivity request)
+    {
+        var Activity = await _context.Activities.FindAsync(id);
+        if (Activity == null)
+        {
+            return BadRequest("Actividad no encontrada");
+        }
+        Activity.Name = request.Name;
+        Activity.Description = request.Description;
+        Activity.Category = request.Category;
+        Activity.Priority = request.Priority;
+        Activity.Date = request.Date;
+        Activity.Minutes = request.Minutes;
 
         _context.Entry(Activity).State = EntityState.Modified;
 

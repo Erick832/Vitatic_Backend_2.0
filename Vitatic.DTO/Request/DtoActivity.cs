@@ -15,6 +15,5 @@ namespace Vitatic.DTO.Request
         public string Priority { get; set; }
         public DateTime Date { get; set; }
         public int Minutes { get; set; }
-        public int Points { get; set; }
     }
 }

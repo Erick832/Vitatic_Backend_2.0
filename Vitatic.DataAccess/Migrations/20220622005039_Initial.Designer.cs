@@ -12,8 +12,8 @@ using Vitatic.DataAccess;
 namespace Vitatic.DataAccess.Migrations
 {
     [DbContext(typeof(VitaticDbContext))]
-    [Migration("20220621041348_initial")]
-    partial class initial
+    [Migration("20220622005039_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
