@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vitatic.DTO/1.0.0": {
+        "dependencies": {
+          "Vitatic.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Vitatic.DTO.dll": {}
+        }
+      },
+      "Vitatic.Entities/1.0.0": {
+        "runtime": {
+          "Vitatic.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vitatic.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vitatic.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
