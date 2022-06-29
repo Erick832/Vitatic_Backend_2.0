@@ -10,6 +10,7 @@ namespace Vitatic.Entities
     {
         public int Repetitions { get; set; }
         public int Points { get; set; }
+        public string Category { get; set; }
         public int ScheduleId { get; set; }
         public Activity Activity { get; set; }
     }

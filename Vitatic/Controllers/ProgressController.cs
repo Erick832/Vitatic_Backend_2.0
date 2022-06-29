@@ -21,6 +21,8 @@ public class ProgressController : ControllerBase
         if (entity == null) return NotFound("Actividad no encontrada");
         entity.Points = request.Points;
         entity.Repetitions = request.Repetitions;
+        entity.Category = request.Category;
+
         _context.Entry(entity).State = EntityState.Modified;
         await _context.SaveChangesAsync();
         return Ok(entity);
@@ -32,6 +34,18 @@ public class ProgressController : ControllerBase
         ICollection<Progress> response;
         response = await _context.Progresses.ToListAsync();
         return Ok(response);
+    }
+    [HttpGet("categoria")]
+    public async Task<ActionResult<ICollection<int>>> GetSuma(string categoria)
+    {
+        int suma = 0;
+        ICollection<Progress> response;
+        response = await _context.Progresses.Where(a=>a.Category==categoria).ToListAsync();
+        foreach (var progress in response)
+        {
+            suma += progress.Points;
+        }
+        return Ok(suma);
     }
     [HttpGet("{id:int}")]
     public async Task<ActionResult<Progress>> GetProgressById(int id)

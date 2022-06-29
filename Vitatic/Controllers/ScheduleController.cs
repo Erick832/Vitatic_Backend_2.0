@@ -39,6 +39,7 @@ public class ScheduleController : ControllerBase
         Progress progress = new Progress();
         progress.ScheduleId = entity.ScheduleId;
         progress.Status = true;
+        progress.Category = " ";
         entity.Progress = progress;
         //
         _context.Entry(entitySchedule).State = EntityState.Modified;
